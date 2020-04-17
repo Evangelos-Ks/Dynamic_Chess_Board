@@ -4,3 +4,4 @@ C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Weeks3-4\C
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Weeks3-4\CB_CSharp_W2_D4\DynamicChessBoard\DynamicChessBoard\obj\Debug\DynamicChessBoard.csprojAssemblyReference.cache
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Weeks3-4\CB_CSharp_W2_D4\DynamicChessBoard\DynamicChessBoard\obj\Debug\DynamicChessBoard.exe
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Weeks3-4\CB_CSharp_W2_D4\DynamicChessBoard\DynamicChessBoard\obj\Debug\DynamicChessBoard.pdb
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Weeks3-4\CB_CSharp_W2_D4\DynamicChessBoard\DynamicChessBoard\obj\Debug\DynamicChessBoard.csproj.CoreCompileInputs.cache
